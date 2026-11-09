@@ -1,0 +1,6 @@
+{
+  "name": "LumaLayer Studio",
+  "description": "Mobile-friendly layer-based video and motion graphics editor with keyframes, timeline, and transform inspector",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
